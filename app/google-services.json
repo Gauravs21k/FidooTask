@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517450908588",
+    "project_id": "fidoointerviewtask",
+    "storage_bucket": "fidoointerviewtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517450908588:android:0aa93d4cc4925d6b7db009",
+        "android_client_info": {
+          "package_name": "com.kaimiya.gaurav.fidoointerviewtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517450908588-7s5c1rj4j5agflq3qdjee89f8r3dvc85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyTKhvJP-t4FFcDpXFadwI9M7KqFEwqjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517450908588-7s5c1rj4j5agflq3qdjee89f8r3dvc85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
