@@ -1,6 +1,6 @@
 package com.kaimiya.gaurav.fidoointerviewtask.network
 
-import com.kaimiya.gaurav.fidoointerviewtask.AddLoggingInterceptor
+import com.kaimiya.gaurav.fidoointerviewtask.logginginterceptor.AddLoggingInterceptor
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 

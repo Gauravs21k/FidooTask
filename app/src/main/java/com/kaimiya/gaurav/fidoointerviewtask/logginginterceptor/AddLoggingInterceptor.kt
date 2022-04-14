@@ -1,4 +1,4 @@
-package com.kaimiya.gaurav.fidoointerviewtask
+package com.kaimiya.gaurav.fidoointerviewtask.logginginterceptor
 
 import okhttp3.OkHttpClient
 

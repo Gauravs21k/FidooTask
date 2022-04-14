@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
 
 
         viewModel.posts.observe(this) {
-            postRecAdapter.updatePosts(it)
+            postRecAdapter.posts = it
         }
 
         viewModel.errorMessage.observe(this) {
